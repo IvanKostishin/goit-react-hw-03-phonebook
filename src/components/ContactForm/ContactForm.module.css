@@ -1,0 +1,14 @@
+.contactForm {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  padding: 30px 40px;
+}
+
+input {
+  margin-bottom: 30px;
+}
+button {
+  border-radius: 7%;
+  padding: 7px 20px;
+}
